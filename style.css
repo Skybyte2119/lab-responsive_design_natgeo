@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    height: 80px;
+    border-bottom:1px solid #aaaaaa;
+    padding: 0; 
+}
+img{
+    width: 10%;
+}
